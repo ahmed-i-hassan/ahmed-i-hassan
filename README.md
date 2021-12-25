@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me: ahmedibrahim@ieee.org
+- 📫 How to reach me: https://www.linkedin.com/in/ahmedi1/
 
 <!---
 ahmed-i-hassan/ahmed-i-hassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
